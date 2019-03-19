@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
     // Constants:
     // TODO: Create the base URL
     private final String BASE_URL = "https://apiv2.bitcoin ...";
+    // https://apiv2.bitcoinaverage.com/constants/exchangerates/global   this url will fetch details
 
     // Member Variables:
     TextView mPriceTextView;
